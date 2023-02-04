@@ -1,0 +1,1 @@
+norminette main.c final.c create_map.c play_utils2.c verif.c data.c get_next_line.c play_utils.c get_next_line_utils.c  play.c utils.c so_long.h 
